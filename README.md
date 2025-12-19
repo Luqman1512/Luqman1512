@@ -56,20 +56,36 @@ I love shipping fast, experimenting with new tech, and turning ideas into workin
 </p>
 ---
 
-🤖 AI & Automation
+🤖 AI, Automation & Builder Stack
 
-AI Workflow Automation
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=34D399&center=true&vCenter=true&width=650&lines=Applied+AI+%7C+Automation+%7C+AI+Builders+%7C+Cloud" />
+</p>🧠 Core AI
 
-No-Code / Low-Code AI Builders
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=openai&theme=dark" height="60" />
+  <img src="https://img.shields.io/badge/GPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
+</p>⚙️ Automation
 
-Prompt Engineering
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=n8n&theme=dark" height="60" />
+  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" />
+</p>☁️ Cloud & Deployment
 
-AI-powered Web & App Systems
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="60" />
+</p>🧩 AI Backend Builder
 
-Smart Bots & Background Automation
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=supabase&theme=dark" height="60" />
+</p>🎨 Frontend AI Builders (Vibe Coder Tools)
 
-
-
+<p align="center">
+  <img src="https://img.shields.io/badge/TempoLabs-AI%20Builder-6366F1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Emergent%20AI-App%20Builder-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Lovable-AI%20UI-EC4899?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" height="60" />
+</p>
 ---
 
 📊 GitHub Stats (Live Animation)
