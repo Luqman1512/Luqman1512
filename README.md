@@ -23,21 +23,34 @@ I love shipping fast, experimenting with new tech, and turning ideas into workin
 
 ---
 
-🧠 Tech Stack (Animated & 3D Style)
+🧠 Tech Stack (Animated, 3D & Modern)
 
 <p align="center">
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="55" />
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="55" />
-</p><p align="center">
-  <!-- Backend & Programming -->
-  <img src="https://skillicons.dev/icons?i=python,java,go,swift&theme=dark" height="55" />
-</p><p align="center">
-  <!-- Mobile & Markup -->
-  <img src="https://skillicons.dev/icons?i=xml&theme=dark" height="55" />
-</p><p align="center">
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,docker,nodejs,react,laravel&theme=dark" height="55" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=Frontend+%7C+Backend+%7C+Mobile+%7C+Database+%7C+AI" />
+</p>🎨 Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" height="60" />
+</p>⚙️ Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,php,java,go,python&theme=dark" height="60" />
+</p>📱 Mobile Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=reactnative,flutter,swift&theme=dark" height="60" />
+</p>🗄️ Database
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" height="60" />
+</p>🔗 API & Markup
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=xml,postman&theme=dark" height="60" />
+</p>🛠️ Tools & DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,laravel&theme=dark" height="60" />
 </p><p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
@@ -79,5 +92,4 @@ Smart Bots & Background Automation
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:6366f1&height=120&section=footer" />
 </p>✨ Building with vibes, logic, and AI.
-
 
