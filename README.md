@@ -1,16 +1,83 @@
-## Hi there 👋
+👋 Hi, I'm Luqman Hakim
 
-<!--
-**Luqman1512/Luqman1512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Vibe+Coder+%F0%9F%94%A5;Full+Stack+Web+%26+App+Developer;AI+Automation+Builder;I+Build+Modern%2C+Smart+%26+Scalable+Products" />
+</p>
+---
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a Vibe Coder who builds modern web & app experiences with clean logic, smooth animations, and real-world impact.
+
+I work as a Full Stack Developer and AI Automation Builder, combining:
+
+🎨 Beautiful UI/UX
+
+⚙️ Solid backend systems
+
+🤖 Smart AI-driven automation
+
+
+I love shipping fast, experimenting with new tech, and turning ideas into working products.
+
+
+---
+
+🧠 Tech Stack (Animated & 3D Style)
+
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="55" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="55" />
+</p><p align="center">
+  <!-- Backend & Programming -->
+  <img src="https://skillicons.dev/icons?i=python,java,go,swift&theme=dark" height="55" />
+</p><p align="center">
+  <!-- Mobile & Markup -->
+  <img src="https://skillicons.dev/icons?i=xml&theme=dark" height="55" />
+</p><p align="center">
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,docker,nodejs,react,laravel&theme=dark" height="55" />
+</p><p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+---
+
+🤖 AI & Automation
+
+AI Workflow Automation
+
+No-Code / Low-Code AI Builders
+
+Prompt Engineering
+
+AI-powered Web & App Systems
+
+Smart Bots & Background Automation
+
+
+
+---
+
+📊 GitHub Stats (Live Animation)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Luqman1512&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luqman1512&theme=tokyonight&hide_border=true" height="170" />
+</p>
+---
+
+📫 Contact Me
+
+<p align="center">
+  <a href="https://wa.me/601157494435" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-01157494435-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:6366f1&height=120&section=footer" />
+</p>✨ Building with vibes, logic, and AI.
+
+
